@@ -3,5 +3,5 @@ Hi there 👋
 I'm Shubham Jha.
 
 
-<p>Tool That I have work with.</p>
+Tool That I have work with.<br>
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,py,vscode)](https://skillicons.dev)
